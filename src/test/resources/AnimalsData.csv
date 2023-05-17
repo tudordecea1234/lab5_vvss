@@ -1,0 +1,3 @@
+username,password,valid,errorMessage
+tudordecea23,Admin12,true,
+Some other invalid user,invalid password,false,Invalid username or password. Signon failed.
